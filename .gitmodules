@@ -1,0 +1,19 @@
+[submodule "硬件开发/WengJiaqi/DeepTutor"]
+	path = 硬件开发/WengJiaqi/DeepTutor
+	url = https://github.com/wjq567666/DeepTutor.git
+
+[submodule "硬件开发/WengJiaqi/StepDeepResearch"]
+	path = 硬件开发/WengJiaqi/StepDeepResearch
+	url = https://github.com/wjq567666/StepDeepResearch.git
+
+[submodule "硬件开发/WengJiaqi/agentos-railway"]
+	path = 硬件开发/WengJiaqi/agentos-railway
+	url = https://github.com/agno-agi/agentos-railway-template.git
+
+[submodule "硬件开发/WengJiaqi/agno"]
+	path = 硬件开发/WengJiaqi/agno
+	url = https://github.com/agno-agi/agno.git
+
+[submodule "硬件开发/WengJiaqi/agno-cookbook"]
+	path = 硬件开发/WengJiaqi/agno-cookbook
+	url = https://github.com/agno-agi/agno.git
